@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background-color: #6dfce4; /* خلفية داكنة مريحة للعين */
+  font-family: system-ui, -apple-system, sans-serif;
+}
